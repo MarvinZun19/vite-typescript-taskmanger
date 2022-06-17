@@ -1,2 +1,2 @@
-# vite-typescript-taskmanger
-Task Manager made whit Typescript and Vite
+# Task Manager - Typescript + vite
+Task Manager made with Typescript and Vite
