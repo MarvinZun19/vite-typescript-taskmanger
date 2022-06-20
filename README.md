@@ -1,4 +1,4 @@
-# Task Manager - Typescript + vite
+# Task Manager - Typescript + vite + Tailwind
 Task Manager made with Typescript and Vite
 
 
